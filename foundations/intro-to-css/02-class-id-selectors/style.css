@@ -1,0 +1,19 @@
+.no1 {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 182, 193);
+}
+
+.three {
+    font-size: 24px;
+}
+
+#no2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: 700;
+}
